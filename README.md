@@ -2,6 +2,8 @@
 
 Python solution of DonorsChoose competition.
 
+https://www.kaggle.com/c/donorschoose-application-screening
+
 Contain Donors notebook.
 
 Solution contain:
